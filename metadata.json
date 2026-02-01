@@ -1,0 +1,9 @@
+
+{
+  "name": "Lumina Creative Studio Manager",
+  "description": "A vibrant, AI-powered workspace for design studios and creative teams. Manage visual projects with elegance and speed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
